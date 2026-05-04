@@ -54,8 +54,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/safe-delete-manager.git
-cd safe-delete-manager
+git clone https://github.com/keika-sy/safe_delete_manager.git
+cd safe_delete_manager
 
 # Install dependency
 pip install rich
